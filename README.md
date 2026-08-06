@@ -3,7 +3,7 @@
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C++, C, Python
-* **Tools & Environment:** Git, Linux, VS Code, CLI
+<!--* **Tools & Environment:** Git, Linux, VS Code, CLI -->
 
 <!--
 ### 📊 GitHub Stats
