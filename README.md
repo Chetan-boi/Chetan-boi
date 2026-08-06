@@ -5,9 +5,11 @@
 * **Languages:** C++, C, Python
 * **Tools & Environment:** Git, Linux, VS Code, CLI
 
+<!--
 ### 📊 GitHub Stats
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan-boi&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-boi&layout=compact&theme=transparent)
+-->
 
 ### 📬 Connect With Me
 * **Codeforces** [https://codeforces.com/profile/Chetan_boi]
