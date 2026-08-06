@@ -1,4 +1,5 @@
-### | Systems programming | C/C++ , Python , Git , Linux environments | Student | First Year | Jaypee Institute of Information Technology, Noida |
+### | Systems programming | C/C++ , Python , Git , Linux environments | 
+### | First Year | Jaypee Institute of Information Technology, Noida |
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C++, C, Python
