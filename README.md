@@ -36,8 +36,11 @@ Unix-like shell written in C++ with custom command parsing and process execution
 * 📂 [FileSorter](https://github.com/Chetan-boi/FileSorter)
 Automatically organizes files into categorized folders based on file type.
 
-* 📚 [BOOKBOT](https://github.com/Chetan-boi/BOOKBOT)
+* 📚 [BookBot](https://github.com/Chetan-boi/BOOKBOT)
 CLI tool that analyzes text files and reports word counts and letter-frequency statistics.
+
+* 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote)
+A fast, offline-first desktop app for generating professional GST-compliant quotation PDFs.
 
 ## 🌐 Connect
 
