@@ -11,12 +11,12 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,lua,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash" />
 </p>
 
 **Tools & Environment**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,neovim,vim,clion,idea,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,linux,neovim,mysql" />
 </p>
 
 <p align="center">
