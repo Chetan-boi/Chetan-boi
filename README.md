@@ -36,6 +36,12 @@ A Unix-like shell written in C++ with custom command parsing and process executi
 * 🛡️ [GitPurge](https://github.com/Chetan-boi/GitPurge)
 VSCode extension to help developers detect and intercept accidentally committed API keys, tokens, and secrets in real-time as you write.
 
+* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX)
+A fast CLI calculator engine written in C++ featuring unit conversion and expression parsing
+
+* ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge)
+A handwriting synthesis engine that turns typed text into personalised handwritten docuemnts, directly from your notes.
+
 * 📊 [Cstat](https://github.com/Chetan-boi/Cstat)
 A Windows-style task manager for macOS written in C++ using ImGUI *(WIP)*
 
@@ -44,12 +50,6 @@ Custom low-level developer utilities engineered for streamlined CMake project wo
 
 * 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote)
 A fast, offline-first desktop app for generating professional GST-compliant quotation PDFs.
-
-* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX)
-A fast CLI calculator engine written in C++ featuring unit conversion and expression parsing *(WIP)*
-
-* ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge)
-A handwriting synthesis engine that turns typed text into personalised handwritten docuemnts, directly from your notes.
 
 * 📂 [FileSorter](https://github.com/Chetan-boi/FileSorter)
 Automatically organizes files into categorized folders based on file type.
