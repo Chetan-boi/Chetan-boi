@@ -3,15 +3,15 @@
 
 ### Currently
 
-- Learning Systems Programming
-- Solving problems on Codeforces and LeetCode.
-<!-- - Contributing to open source whenever I can -->
+- Learning systems programming
+- Solving problems on Codeforces and LeetCode
+- Contributing to open source: [open PR](https://github.com/suitenumerique/docs/pull/2710) to [Docs](https://github.com/suitenumerique/docs) (17k★)
 
 ### Tech Stack
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,swift,python,tailwind,bash,lua" />
 </p>
 
 **Tools & Environment**
@@ -20,42 +20,54 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Chetan-boi&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chetan-boi&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-trophies.vercel.app/?username=Chetan-boi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=5&title=MultiLanguage,LongTimeUser,Stars,Commits,Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chetan-boi&theme=github-dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Chetan-boi&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chetan-boi&layout=compact&exclude_repo=Prism-platform&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=Chetan-boi&theme=github-dark&hide_border=true" />
+  <img height="150" src="https://leetcard.jacoblin.cool/Chetan_boi?theme=dark&font=Inter&border=0&radius=6" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-boi&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ## Featured Projects
 
-* 🖥️ [ChSh](https://github.com/Chetan-boi/ChSh)
-A Unix-like shell written in C++ with custom command parsing and process execution. 
+* 🛵 [iQube Companion](https://github.com/Chetan-boi/iQube-companion) · [website](https://iqube-companion.chetan140209.workers.dev)
+macOS menu-bar app and desktop widget for TVS electric scooters. Live battery, range and time to full, straight from the scooter's telemetry feed. Swift, SwiftUI, WidgetKit.
 
 * 🛡️ [GitPurge](https://github.com/Chetan-boi/GitPurge)
-VSCode extension to help developers detect and intercept accidentally committed API keys, tokens, and secrets in real-time as you write.
+VS Code extension that flags API keys, tokens and secrets while you type, before they end up in a commit.
 
-* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX)
-A fast CLI calculator engine written in C++ featuring unit conversion and expression parsing
+* 🖥️ [ChSh](https://github.com/Chetan-boi/ChSh)
+A Unix-like shell in C++ with its own lexer and executor. Pipes, redirection, signals, history.
 
 * ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge)
-A handwriting synthesis engine that turns typed text into personalised handwritten docuemnts, directly from your notes.
+Turns typed notes into handwritten PDFs, using samples of your own handwriting.
 
-* 📊 [Cstat](https://github.com/Chetan-boi/Cstat)
-A Windows-style task manager for macOS written in C++ using ImGUI *(WIP)*
+* ⚔️ [Hollowfied](https://github.com/Chetan-boi/hollowfied) *(WIP)*
+A Bleach-inspired top-down roguelike in Rust. Sword combat, abilities, procedural encounters.
 
 * ⚡ [Binaries](https://github.com/Chetan-boi/Binaries)
-Custom low-level developer utilities engineered for streamlined CMake project workflows and POSIX process management.
+Small C++ tools for scaffolding and running CMake projects, plus a Rust port.
 
 * 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote)
-A fast, offline-first desktop app for generating professional GST-compliant quotation PDFs.
+Offline desktop app for making GST-compliant quotation PDFs.
 
-* 📂 [FileSorter](https://github.com/Chetan-boi/FileSorter)
-Automatically organizes files into categorized folders based on file type.
+* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX)
+qalc-style terminal calculator in C++, with expression parsing and unit conversion.
 
-* 📚 [BookBot](https://github.com/Chetan-boi/BOOKBOT)
-CLI tool that analyzes text files and reports word counts and letter-frequency statistics.
+* 🧠 [challoc](https://github.com/Chetan-boi/challoc) *(WIP)*
+Memory allocator from scratch in C. Garbage collector is next.
+
+* 📊 [Cstat](https://github.com/Chetan-boi/Cstat) *(WIP)*
+Windows-style task manager for macOS, in C++ with Dear ImGui.
 
 
 ## 🌐 Connect
