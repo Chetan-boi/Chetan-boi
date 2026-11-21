@@ -5,7 +5,7 @@
 
 - Learning systems programming
 - Solving problems on Codeforces and LeetCode
-- Contributing to open source: [open PR](https://github.com/suitenumerique/docs/pull/2710) to [Docs](https://github.com/suitenumerique/docs) (17k★)
+- Contributing to open source
 
 ### Tech Stack
 
@@ -34,41 +34,21 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chetan-boi&theme=github-compact&hide_border=true&area=true" />
+  <img width="85%" src="profile-3d-contrib/calendar.svg" alt="3D contribution calendar, last six months" />
 </p>
 
 ## Featured Projects
 
-* 🛵 [iQube Companion](https://github.com/Chetan-boi/iQube-companion) · [website](https://iqube-companion.chetan140209.workers.dev)
-macOS menu-bar app and desktop widget for TVS electric scooters. Live battery, range and time to full, straight from the scooter's telemetry feed. Swift, SwiftUI, WidgetKit.
-
-* 🛡️ [GitPurge](https://github.com/Chetan-boi/GitPurge)
-VS Code extension that flags API keys, tokens and secrets while you type, before they end up in a commit.
-
-* 🖥️ [ChSh](https://github.com/Chetan-boi/ChSh)
-A Unix-like shell in C++ with its own lexer and executor. Pipes, redirection, signals, history.
-
-* ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge)
-Turns typed notes into handwritten PDFs, using samples of your own handwriting.
-
-* ⚔️ [Hollowfied](https://github.com/Chetan-boi/hollowfied) *(WIP)*
-A Bleach-inspired top-down roguelike in Rust. Sword combat, abilities, procedural encounters.
-
-* ⚡ [Binaries](https://github.com/Chetan-boi/Binaries)
-Small C++ tools for scaffolding and running CMake projects, plus a Rust port.
-
-* 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote)
-Offline desktop app for making GST-compliant quotation PDFs.
-
-* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX)
-qalc-style terminal calculator in C++, with expression parsing and unit conversion.
-
-* 🧠 [challoc](https://github.com/Chetan-boi/challoc) *(WIP)*
-Memory allocator from scratch in C. Garbage collector is next.
-
-* 📊 [Cstat](https://github.com/Chetan-boi/Cstat) *(WIP)*
-Windows-style task manager for macOS, in C++ with Dear ImGui.
-
+* 🛵 [iQube Companion](https://github.com/Chetan-boi/iQube-companion) · [website](https://iqube-companion.chetan140209.workers.dev) - Your TVS scooter's battery, range and charging, live on your Mac
+* 🛡️ [GitPurge](https://github.com/Chetan-boi/GitPurge) - Catches leaked API keys in VS Code before they get committed
+* 🖥️ [ChSh](https://github.com/Chetan-boi/ChSh) - Unix-like shell in C++ with pipes, redirection and signal handling
+* ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge) - Turns typed notes into PDFs in your own handwriting
+* ⚔️ [Hollowfied](https://github.com/Chetan-boi/hollowfied) *(WIP)* - Bleach-inspired top-down roguelike in Rust
+* ⚡ [Binaries](https://github.com/Chetan-boi/Binaries) - Tools for scaffolding and running CMake projects
+* 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote) - Offline app for GST-compliant quotation PDFs
+* 🧮 [CalcX](https://github.com/Chetan-boi/CalcX) - qalc-style calculator for the terminal
+* 🧠 [challoc](https://github.com/Chetan-boi/challoc) *(WIP)* - Memory allocator from scratch in C
+* 📊 [Cstat](https://github.com/Chetan-boi/Cstat) *(WIP)* - Windows-style task manager for macOS, built with Dear ImGui
 
 ## 🌐 Connect
 
