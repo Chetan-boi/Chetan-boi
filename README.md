@@ -1,4 +1,4 @@
-### | Systems Programming • Linux • Open Source |
+### | Systems Programming • Linux • macOS • Open Source |
 > First-Year Computer Science Student @ JIIT Noida
 
 ### Currently
@@ -11,12 +11,12 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,swift,python,tailwind,bash,lua" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,swift,python,bash,lua" />
 </p>
 
 **Tools & Environment**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,neovim,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,linux,neovim,cmake,apple,mysql,tailwind" />
 </p>
 
 <p align="center">
@@ -44,8 +44,6 @@
 * 🖥️ [ChSh](https://github.com/Chetan-boi/ChSh) - Unix-like shell in C++ with pipes, redirection and signal handling
 * ✍️ [ScriptForge](https://github.com/Chetan-boi/scriptforge) - Turns typed notes into PDFs in your own handwriting
 * ⚔️ [Hollowfied](https://github.com/Chetan-boi/hollowfied) *(WIP)* - Bleach-inspired top-down roguelike in Rust
-* ⚡ [Binaries](https://github.com/Chetan-boi/Binaries) - Tools for scaffolding and running CMake projects
-* 🧾 [QuickQuote](https://github.com/Chetan-boi/QuickQuote) - Offline app for GST-compliant quotation PDFs
 * 🧮 [CalcX](https://github.com/Chetan-boi/CalcX) - qalc-style calculator for the terminal
 * 🧠 [challoc](https://github.com/Chetan-boi/challoc) *(WIP)* - Memory allocator from scratch in C
 * 📊 [Cstat](https://github.com/Chetan-boi/Cstat) *(WIP)* - Windows-style task manager for macOS, built with Dear ImGui
