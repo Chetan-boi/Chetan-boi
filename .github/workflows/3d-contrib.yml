@@ -25,6 +25,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Keep only the calendar
+        env:
+          # calendar_only.py queries the GraphQL API for the corner stats
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
         run: |
           # rsvg-convert + ImageMagick measure the crop
           sudo apt-get update -qq && sudo apt-get install -y -qq librsvg2-bin imagemagick
